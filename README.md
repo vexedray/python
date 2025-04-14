@@ -15,3 +15,6 @@ Este repositório contém projetos e estudos utilizando **Python**, com foco em 
     ```bash
     cd python
     ```
+
+
+- [LinkedIn](https://www.linkedin.com/in/rayssa-borges-59097a288/)
